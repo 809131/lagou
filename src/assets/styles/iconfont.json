@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1168081",
+      "name": "QQ登录反白",
+      "font_class": "qqdenglufanbai",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2212974",
+      "name": "未登录头象",
+      "font_class": "weidenglutouxiang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "13769356",
+      "name": "登录-微信登录",
+      "font_class": "denglu-weixindenglu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
